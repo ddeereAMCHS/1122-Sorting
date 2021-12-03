@@ -1,5 +1,7 @@
 # Sorting
 
+### No Googling either sorting algorithm
+
 - Create a program called `Sorting.java`
 - Create a void static method that implents the selection sort algorithm
 - Create a void static method that implents the insertion sort algorithm
