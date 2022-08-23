@@ -1,5 +1,7 @@
 # Sorting
 
+## Due: DoW MM/DD at 11:59 PM
+
 ### No Googling any of the sorting algorithms
 
 - Create a program called `Sorting.java`
