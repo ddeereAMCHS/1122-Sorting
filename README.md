@@ -1,6 +1,6 @@
 # Sorting
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Fri 3/31 at 11:59 PM
 
 ### No Googling any of the sorting algorithms
 
