@@ -1,6 +1,6 @@
 # Sorting
 
-## Due: Fri 3/31 at 11:59 PM
+## Due: Tue 4/2 at 11:59 PM
 
 ### No Googling any of the sorting algorithms
 
